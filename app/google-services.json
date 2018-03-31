@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "383275566325",
+    "firebase_url": "https://satarknagrik-e48be.firebaseio.com",
+    "project_id": "satarknagrik-e48be",
+    "storage_bucket": "satarknagrik-e48be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383275566325:android:4ff5e319a0bab843",
+        "android_client_info": {
+          "package_name": "gov.assam.sixsigma.satarknagrik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383275566325-67qfthhvbfm0j864sd1a8jethfmvib61.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gov.assam.sixsigma.satarknagrik",
+            "certificate_hash": "0e44c1f160d70b521624e77c81ed52849e3beb62"
+          }
+        },
+        {
+          "client_id": "383275566325-nrgdtp2vh9oiabesairg3nrcqogsbtif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA72jZ7q53H1dw1tP8ds4O72HQfMntgSCE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383275566325-nrgdtp2vh9oiabesairg3nrcqogsbtif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
